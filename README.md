@@ -129,15 +129,7 @@ Cotlet.dev is a hosted MCP server that works in Faire for you, 24/7, with Claude
 - [Idealista MCP](https://github.com/cotlet-connect/idealista-mcp)
 - [Riverside MCP](https://github.com/cotlet-connect/riverside-mcp)
 - [Udemy MCP](https://github.com/cotlet-connect/udemy-mcp)
-- [Teachable MCP](https://github.com/cotlet-connect/teachable-mcp)
-- [Vagaro MCP](https://github.com/cotlet-connect/vagaro-mcp)
 - [Buildertrend MCP](https://github.com/cotlet-connect/buildertrend-mcp)
-- [Zoopla MCP](https://github.com/cotlet-connect/zoopla-mcp)
-- [Dribbble MCP](https://github.com/cotlet-connect/dribbble-mcp)
-- [Hostelworld MCP](https://github.com/cotlet-connect/hostelworld-mcp)
-- [Mashvisor MCP](https://github.com/cotlet-connect/mashvisor-mcp)
-- [Rent Manager MCP](https://github.com/cotlet-connect/rent-manager-mcp)
-- [ThriveCart MCP](https://github.com/cotlet-connect/thrivecart-mcp)
 - [All apps connected through Cotlet.dev](https://github.com/cotlet-connect)
 
 ---
