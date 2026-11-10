@@ -105,6 +105,7 @@ Cotlet.dev is a hosted MCP server that works in Faire for you, 24/7, with Claude
 
 - [Faire on Cotlet.dev](https://cotlet.dev/integrations/faire-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=faire&utm_content=find)
 - [PyPI package faire-mcp](https://pypi.org/project/faire-mcp/)
+- [Odel](https://odel.app/modules/cotlet/faire)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-faire-to-ai-agents-guide)
 
 ## Also works with
